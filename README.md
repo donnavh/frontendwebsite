@@ -16,7 +16,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+Donna van Haastrecht
 
   #### Je startniveau:
   hier je startniveau (kies uit zwart, rood óf blauw)
@@ -27,7 +27,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 </details>
 
 
-
+https://donnavh.github.io/frontendwebsite/
 
 
 ## Je website
