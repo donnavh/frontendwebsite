@@ -20,7 +20,10 @@ button, summary {
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	--header-background: rgb(211, 209, 209); 
 }
+	/*--maxwidth: 32rem; 
+
 
 
 
@@ -31,4 +34,92 @@ button, summary {
 /****************/
 
 /* jouw code */
+
+
+body{
+	/*grid-template-columns: minmax(auto, var(--maxWidth)); */
+
+	justify-content: center;
+	
+
+}
+
+header nav{
+	padding: 1em;
+	display: grid;
+	align-content: start;
+	gap: 1em;
+
+	position: fixed;
+
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+
+	transform: translateX(0%);
+}
+
+ /*header{
+	min-height: 4em;
+	padding: 0 1em;
+} */
+
+header ul:nth-of-type(1) {
+	display: flex;
+	list-style-type: none ;
+	background-color: var(--header-background);
+	line-height:1;
+}
+
+/*header ul li:nth-of-type(1) {
+	display: flex;
+	border: ;
+	align-content: center;
+	list-style-type: none;
+} */
+
+header nav ul{
+	list-style-type: none;
+}
+
+
+section:nth-of-type(3) ul {
+	display: flex;
+	gap: 1em;
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+	list-style-type: none;
+}
+
+/*section:nth-of-type(3) img{
+	width: 100%;
+} */
+
+section:nth-of-type(4) img{
+	display: grid;
+}
+
+section:nth-of-type(5){
+	display: flex;
+	gap: 1em;
+	margin: 0;
+	padding: 0;
+	overflow: scroll;
+}
+
+section:nth-of-type(5){
+	size: 100%;
+}
+
+section:nth-of-type(6) ul{
+	display: flex;
+	list-style-type: none;
+	overflow: scroll;
+	gap: 1em;
+	margin: 0;
+	padding: 0;
+	
+}
 
