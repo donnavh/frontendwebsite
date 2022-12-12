@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+ Donna van Haastrecht
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
@@ -38,13 +38,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
+  https://www.urbanoutfitters.com/en-gb/?ss=us_gb 
+
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  hier de naam van de pagina 
+ <img src="/readme-images/www.urbanoutfitters.com_en-gb_sale__gl=1%2agvuf64%2a_up%2aMQ..&gclid=CjwKCAiApvebBhAvEiwAe7mHSA0dfFqbiKiJiuf96UeuVis4hHXOmt4aJiZ5vJLxs8s5mC4jRQrq-BoCfUIQAvD_BwE(iPhone XR).png" alt="screenshot van homepagina ">	
+
+ 
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+ <img src="/readme-images/www.urbanoutfitters.com_en-gb_womens-clothing(iPhone XR) (1).png" alt="screenshot van women's pagina">
+
  
 </details>
 
@@ -91,10 +96,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/www.urbanoutfitters.com_en-gb_sale__gl=1%2agvuf64%2a_up%2aMQ..&gclid=CjwKCAiApvebBhAvEiwAe7mHSA0dfFqbiKiJiuf96UeuVis4hHXOmt4aJiZ5vJLxs8s5mC4jRQrq-BoCfUIQAvD_BwE(iPhone XR).png" alt="screenshot van homepagina ">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+
+  
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -146,15 +153,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  basis opbouwen ging goed
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Hamburger menu, 
+  in de nav, menu of footer 
+  elementen die eerst verborgen staan  | en dit             | en ik dit    | en dan ik dat    |
+  |  | dit als er tijd is | nog een punt | dit wil ik zeker |
+             | ...                | ...          | ...              |
 
 
   ### Verslag van meeting

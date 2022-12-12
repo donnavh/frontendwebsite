@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 200 200">
+" viewBox="0 0 343.638 339.638">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 20px;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-1462 1188)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M1791.054-862.639Z"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" class="cls-2" transform="translate(1462 -1188)">
+      <ellipse class="cls-4" cx="131" cy="131.5" rx="131" ry="131.5"/>
+      <ellipse class="cls-5" cx="131" cy="131.5" rx="121" ry="121.5"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" class="cls-3" x2="108" y2="103" transform="translate(1683.5 -965.5)"/>
+  </g>
+</svg>
