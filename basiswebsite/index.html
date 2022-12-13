@@ -9,6 +9,7 @@
 	<title>Urban Outfitters</title>
 
 	<link href="styles/style.css" rel="stylesheet">
+	<link rel="stylesheet" href="styles/index.css">
 	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
 </head>
 
@@ -16,9 +17,9 @@
 	<main>
 
 		<header>
-
+			<a href="index.html">
 			<img src="images/logo_christmas_500px.gif" alt="shopping basket icon">
-
+		</a>
 			<section>
 				<form>
 					<label for="search">
@@ -26,7 +27,7 @@
 					</label>
 					<input type="search" id="search" placeholder="Search">
 
-					<button type="submit"> <img src="images/search icon.svg" alt=""></button>
+					<button type="submit"> <img src="images/search icon.png" alt=""></button>
 				</form>
 				<a href="#"><img src="images/shopping basket.svg" alt=""> </a>
 				<button aria-label="open menu"> <img src="images/menu button.svg" alt=""></button>
@@ -37,9 +38,9 @@
 			<nav>
 
 				<button aria-label="toggle menu"><img src="images/exit button.svg" alt=""></button>
-
+				<a href="Sign in">Sign in</a>
 				<ul>
-					<a href="Sign in">Sign in</a>
+
 					<li><a href="New">New</a></li>
 					<li><a href="Women's">Women's</a></li>
 					<li><a href="Men's">Men's</a></li>
@@ -50,12 +51,17 @@
 					<li><a href="Sale & Offers">Sale & Offers</a></li>
 
 				</ul>
-				<ul>
-					<li><a href="UO Rewards">UO Rewards</a></li>
-					<li><a href="Store Locator">Store Locator</a></li>
-					<li><a href="Gift Cards">Gift Cards</a></li>
-					<li><a href="English (€)">English (€) </a></li>
-				</ul>
+
+
+				<section>
+
+					<a href="details.html">UO Rewards</a>
+					<a href="Store Locator">Store Locator</a>
+					<a href="Gift Cards">Gift Cards</a>
+					<a href="English (€)">English (€) </a>
+				</section>
+
+
 			</nav>
 
 
@@ -238,33 +244,37 @@
 		<img src="images/StudentDiscount_10_UK.webp" alt="">
 
 		<h4>About UO</h4>
-		<p>Urban Outfitters is a lifestyle retailer dedicated to inspiring customers through a unique combination of
-			product, creativity and cultural understanding. Founded in 1970 in a small space across the street from the
-			University of Pennsylvania, Urban Outfitters now operates over 200 stores in the United States, Canada and
-			Europe, offering experiential retail environments and a well-curated mix of on-trend women’s and men’s
-			clothes,
-			from dresses, denim and graphics to shoes, hats, and bags, as well as beauty, lingerie, swim and a
-			collection of
-			handpicked vintage clothing known as Urban Renewal. Urban Outfitters also stocks everything you need to
-			decorate
-			your small space, apartment or room, with a UO Home collection that includes bedding, tapestries, rugs,
-			bathroom
-			accessories and furniture. Our Music & Tech collection is a go-to destination for vinyl, record players and
-			tech
-			accessories. Visit our stores or shop online at urbanoutfitters.co.uk and get free shipping on orders over
-			£30/30€. For exclusive offers, one-of-a-kind prizes and more, download the UO app and join UO Rewards! Want
-			to
-			be part of the conversation? Follow, share and shop @urbanoutfitterseu.</p>
-
+		<details>
+			<summary>Urban Outfitters is a lifestyle retailer dedicated to inspiring customers through a unique
+				combination of product, creativity and cultural understanding. Founded in 1970 in a small space across
+				the street from</summary> the University of Pennsylvania, Urban Outfitters now operates over 200 stores in the United States,
+			Canada and Europe, offering experiential retail environments and a well-curated mix of on-trend women’s and
+			men’s clothes, from dresses, denim and graphics to shoes, hats, and bags, as well as beauty, lingerie, swim
+			and a collection of handpicked vintage clothing known as Urban Renewal. Urban Outfitters also stocks
+			everything you need to decorate your small space, apartment or room, with a UO Home collection that includes
+			bedding, tapestries, rugs, bathroom accessories and furniture. Our Music & Tech collection is a go-to
+			destination for vinyl, record players and tech accessories. Visit our stores or shop online at
+			urbanoutfitters.co.uk and get free shipping on orders over £30/30€. For exclusive offers, one-of-a-kind
+			prizes and more, download the UO app and join UO Rewards! Want to be part of the conversation? Follow, share
+			and shop @urbanoutfitterseu.
+		</details>
+		
 		</section>
 
 	</main>
 
 	<footer>
 		<h4>Sign-up for Email and get 10% off your First Order</h4>
+		<p>Sign up to receive Urban Outfitters emails and get first dibs on new arrivals, sales, exclusive content,
+			events and more!
 
-		<input type="text">
+		</p>
+		<form action="e-mail">
+			<input type="email" name="" id="">
+
+		</form>
 		<button type="submit">Submit</button>
+
 		<p>
 			By entering your email address, you agree to receive Urban Outfitters offers, promotions, and other
 			commercial
@@ -313,7 +323,11 @@
 				</ul>
 			</details>
 
+		</section>
 
+		<section>
+		<img src="images/UO_UI-WEB_SOCIAL-FOOTER_APP_APPLE-ICON.svg" alt="">
+		<img src="images/UO_UI-WEB_SOCIAL-FOOTER_APP_GOOGLE-ICON.svg" alt="">
 		</section>
 
 	</footer>
